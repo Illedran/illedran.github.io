@@ -2,4 +2,4 @@
 
 I like memes.
 
-[Test](raftscope.md)
+[Test](raftscope)
