@@ -1,0 +1,3 @@
+[submodule "raftscope"]
+	path = raftscope
+	url = https://github.com/Illedran/raftscope.git
