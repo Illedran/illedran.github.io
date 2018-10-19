@@ -1,4 +1,5 @@
-Hi there! I'm Andrea from Italy.
+# Hi there!
+#### I'm Andrea from Italy.
 
 I am a Data Science master student currently in Stockholm at the Royal Institute of Technology KTH. 
 My interests lie in data engineering, machine learning, and distributed systems. The connecting thread in these topics
@@ -6,14 +7,14 @@ is my biggest passion which is **algorithms**, whether they are a machine learni
  or a resource allocation/load balancing algorithm.
 
 As of October 19th 2018, I am currently looking for a master's thesis project starting in January 2019. You can get in
- touch with me on [LinkedIn](https://linkedin.com/in/andrea-nardelli).
+ touch with me on [LinkedIn](https://linkedin.com/in/andrea-nardelli) or drop me an email at andnar@kth.se.
 
 ### Projects
 This page contains a small list of projects that I have worked on during my studies or extracurricular activities that
  are close to my heart.
 
  * [My BSc thesis](static/pdf/new_physics_detection.pdf) (in English): `New physics detection in High Energy 
- Physics experiments through unsupervised Deep Learning`. I graduated on March 20th 2017
+ Physics experiments through unsupervised Deep Learning`. I graduated on March 20th 2017 
  with 110 out of 110 cum laude.
  ![ATLAS experiment](static/img/atlas.png)
  * [RaftScope](raftscope): RaftScope is a visualizer of the Raft consensus algorithm. It was originally
